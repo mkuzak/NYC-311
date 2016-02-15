@@ -1,3 +1,6 @@
+# Processing NYC Open Data 311 calls
+# Code based on [plotly](https://plot.ly/python/big-data-analytics-with-pandas-and-sqlite)]
+
 import pandas as pd
 import datetime as dt
 from sqlalchemy import create_engine # database connection
